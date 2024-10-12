@@ -1,4 +1,4 @@
-# Web-Scraping - Dados do resultados das eleições do TSE
+# Web-Scraping - Dados dos resultados das eleições do TSE
 
 ## Resumo do Projeto
 Este repositório apresenta um exemplo prático de como utilizar o Selenium para realizar scraping de dados eleitorais do site do Tribunal Superior Eleitoral (TSE). O código permite a extração de informações sobre locais de votação e candidatos, a partir de critérios definidos pelo usuário, como município, zona e seção eleitoral.
